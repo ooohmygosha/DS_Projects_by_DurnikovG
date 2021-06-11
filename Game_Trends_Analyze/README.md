@@ -1,4 +1,4 @@
-# BETTER WATCH PROJECT [HERE](https://nbviewer.jupyter.org/github/ooohmygosha/DS_Projects_by_DurnikovG/tree/main/Game_Trends_Analyze/)
+# BETTER WATCH PROJECT [HERE](https://nbviewer.jupyter.org/github/ooohmygosha/DS_Projects_by_DurnikovG/blob/main/Game_Trends_Analyze/Game_Market_Analyze.ipynb)
 
 # Учебный EDA-проект в Яндекс.Практикум
 ## На тему "Какие компьютерные игры продавать в интернет-магазине в 2017 году?"
