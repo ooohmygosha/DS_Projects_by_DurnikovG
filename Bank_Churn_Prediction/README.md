@@ -1,3 +1,5 @@
+# BETTER WATCH PROJECT [HERE](https://nbviewer.jupyter.org/github/ooohmygosha/DS_Projects_by_DurnikovG/blob/main/Bank_Churn_Prediction/churn_prediction_ml.ipynb)
+
 # Учебный ML-проект в Яндекс.Практикум
 ## Задача: Предсказание оттока клиентов в банке
 
