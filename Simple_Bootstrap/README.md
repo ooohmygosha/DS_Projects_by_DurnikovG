@@ -1,7 +1,7 @@
 # BETTER WATCH PROJECT [HERE](https://nbviewer.jupyter.org/github/ooohmygosha/DS_Projects_by_DurnikovG/blob/main/Simple_Bootstrap/Bootstrap_Project.ipynb)
 
 
-# Реализация проверки результатов методом Bootstrap
+# Реализация проверки результатов модели машинного обучения методом Bootstrap
 ![](https://inbusiness.kz/ru/images/original/16/images/g5aaFNFb.jpg)
 
 ### Цель проекта: Определить регион и месторасположение в нем новых скважин для добычи нефти.
