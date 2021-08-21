@@ -1,9 +1,8 @@
-# BETTER WATCH PROJECT [HERE](https://nbviewer.jupyter.org/github/ooohmygosha/DS_Projects_by_DurnikovG/blob/main/Game_Trends_Analyze/Game_Market_Analyze.ipynb)
+# BETTER WATCH PROJECT [HERE](https://nbviewer.jupyter.org/github/ooohmygosha/DS_Projects_by_DurnikovG/blob/main/Bankrupt_Prediction/bakrupt_prediction.ipynb)
 
-# Учебный EDA-проект в Яндекс.Практикум
-## На тему "Какие компьютерные игры продавать в интернет-магазине"
-![](https://futurefive.co.nz/uploads/story/2020/05/12/GettyImages-1160866353.jpg)
-### Задча стояла так - исходя из довольно известного датасета с данными о продаже игр до 2016 года определить паттерны успешных продаж в гейм-маркете на 2017 год. 
+# Прогнозирование вероятности банкротства
+![](https://static.wikia.nocookie.net/geosheas-lost-episodes/images/4/4c/Titlecard-2-0.png/revision/latest/scale-to-width-down/220?cb=20200605153632)
+## Задча стояла так - исходя из довольно известного датасета с данными о продаже игр до 2016 года определить паттерны успешных продаж в гейм-маркете на 2017 год. 
 
 **Используемые библиотеки:**
 * pandas
