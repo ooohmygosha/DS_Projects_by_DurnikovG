@@ -1,7 +1,6 @@
 # BETTER WATCH PROJECT [HERE](https://nbviewer.jupyter.org/github/ooohmygosha/DS_Projects_by_DurnikovG/blob/main/Game_Trends_Analyze/Game_Market_Analyze.ipynb)
 
-# Учебный EDA-проект в Яндекс.Практикум
-## На тему "Какие компьютерные игры продавать в интернет-магазине"
+# Какие компьютерные игры продавать в интернет-магазине?
 ![](https://futurefive.co.nz/uploads/story/2020/05/12/GettyImages-1160866353.jpg)
 ### Задча стояла так - исходя из довольно известного датасета с данными о продаже игр до 2016 года определить паттерны успешных продаж в гейм-маркете на 2017 год. 
 
